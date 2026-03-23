@@ -2,11 +2,7 @@
 #Programmer: Azrael#
 #Date: 3/22/2026#
 
-#Get user name. This is optional and can be removed.#
-name = input("Please enter your name: ")
 
-#There should be a space between welcome and the name variable to ensure proper formatting of the output. This is also option and can be removed as well.#   
-print("Welcome " + name + ", would you like to get started?")
 
 #Verify user input to ensure it's functioning appropriately#
 while True:
