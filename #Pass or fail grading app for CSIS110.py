@@ -1,5 +1,5 @@
 #Pass or fail grading application for CSIS110
-#Programmer: Kevin Nolan
+#Programmer: docnolan86-cyber
 #Date: 2/23/2026
 
 print("Please Enter the grades for the following Exams")
